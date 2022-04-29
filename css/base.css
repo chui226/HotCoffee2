@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: 'Inter';
+}
+
+ul{
+    list-style: none;
+}
+li{
+    margin: 20px;
+}
+

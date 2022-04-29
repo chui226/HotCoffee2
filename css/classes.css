@@ -1,0 +1,12 @@
+.container {
+    max-width: 1110px;
+    margin: 0 auto;
+  }
+
+.flex{
+    display: flex;
+}
+.burger__list{
+  display: none;
+}
+

@@ -1,0 +1,62 @@
+
+
+
+
+.section__title{
+    max-width: 632px;
+    font-size: 45px;
+    color: #2D3748;
+    margin-bottom: 0;
+}
+
+
+.subtitle{
+    
+  align-items: center;
+ 
+}
+
+.section__author{
+    font-size: 18px;
+    color: #2D3748;
+    margin-right: 25px;
+    
+}
+
+.section__date{
+    font-size: 18px;
+    color: #718096;
+    font-weight: 400;
+}
+
+.section__line{
+width: 760px;
+height: 0px;
+border: 1px solid #E8E7E7;
+}
+
+.section__text{
+
+font-size: 16px;
+line-height: 19px;
+color: #718096;
+
+}
+
+.section__text--name{
+    color: #2D3748;
+    font-weight: 700;
+}
+
+.section__text--title{
+    color: #2D3748;
+    font-weight: 700;
+font-size: 35px;
+margin: 40px 0;
+}
+
+.section__line--two{
+    left: 0%;
+right: 0%;
+border: 1px solid #E8E8E8;
+}
